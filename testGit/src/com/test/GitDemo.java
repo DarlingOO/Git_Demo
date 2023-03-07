@@ -5,5 +5,7 @@ public class GitDemo {
         System.out.println("第一次提交");
 
         System.out.println("test我是老二");
+
+        System.out.println("main我是老大");
     }
 }
